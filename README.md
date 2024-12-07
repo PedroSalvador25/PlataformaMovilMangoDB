@@ -1,2 +1,7 @@
-# PlataformaMovilMangoDB
-Plataforma web y movil desarrollada para la materia de Proyecto Integrador de Ingenieria en Sotware e Ingenieria Web
+# AppMangoDB
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
